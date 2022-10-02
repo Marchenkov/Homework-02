@@ -4,9 +4,8 @@
     --color-background:#ffffff;
     --color-background-header: #2F303A;
     --color-background-button: #188CE8;
-    <a> text-decoration: none;
-}
-.Web-text {
+    .link {text-decoration: none;
+}.Web-text {
     color: var(--color-secondary);
         font-family: 'Raleway', sans-serif;
         font-weight: 700;
@@ -32,6 +31,8 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
+    text-decoration: none;
+    
 } 
 .head-link .link:hover, .head-link .link:focus{
     color: var(--color-secondary);
@@ -122,6 +123,7 @@ font-size: 14px;
 line-height: 1.7;
 letter-spacing: 0.48px;
 color: var(--color-background);
+text-decoration: none;
 }
 .footer-link:hover,.footer-link:focus {
     color: var(--color-secondary);
