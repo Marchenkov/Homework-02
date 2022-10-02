@@ -4,6 +4,7 @@
     --color-background:#ffffff;
     --color-background-header: #2F303A;
     --color-background-button: #188CE8;
+    <a> text-decoration: none;
 }
 .Web-text {
     color: var(--color-secondary);
@@ -23,14 +24,14 @@
 }
 .head-link {
     color: var(--color-primary);
-    font-family: 'Roboto',sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;    
+        
 }
 .head-link .link {
     color: var(--color-primary);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
 } 
 .head-link .link:hover, .head-link .link:focus{
     color: var(--color-secondary);
@@ -59,6 +60,7 @@
     align-items: center;
     text-align: center;
     letter-spacing: 0.96px;
+    cursor: pointer;
 }
 .button-pf {
     color: var(--color-primary);
