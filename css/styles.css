@@ -40,6 +40,7 @@
 } 
 .second-link{
     color: var(--color-primary);
+    text-decoration: none;
 }
 .head-link .link:hover, .head-link .link:focus{
     color: var(--color-secondary);
