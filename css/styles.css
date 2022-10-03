@@ -39,7 +39,6 @@
     
 } 
 .second-link .link {
-    color: var(--color-primary);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -47,7 +46,7 @@
     line-height: 1.7;
     letter-spacing: 0.48px;
     text-decoration: none;
-
+    color: var(--color-primary);
 }
 .second-link .link:hover, .second-link .link:focus{
     color: var(--color-secondary);
