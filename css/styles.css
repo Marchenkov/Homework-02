@@ -38,11 +38,8 @@
     text-decoration: none;
     
 } 
-.second-link>.link {
-    color: var(--color-primary);
-}
-
 .second-link .link {
+    color: var(--color-primary);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
