@@ -39,7 +39,7 @@
     
 } 
 .second-link .link {
-    color: #212121;
+    color: var(--color-primary);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
