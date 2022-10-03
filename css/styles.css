@@ -49,10 +49,9 @@
     text-decoration: none;
 
 }
-.second-link .link:hover, .second-link .link:focus {
+.second-link .link:hover, .second-link .link:focus{
     color: var(--color-secondary);
     cursor: pointer;
-
 }
 .head-link .link:hover, .head-link .link:focus{
     color: var(--color-secondary);
