@@ -38,7 +38,7 @@
     text-decoration: none;
     
 } 
-.second-link {
+.second-link .link {
     color: var(--color-primary);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -49,7 +49,7 @@
     text-decoration: none;
 
 }
-.second-link :hover, .second-link :focus {
+.second-link .link:hover, .second-link .link:focus {
     color: var(--color-secondary);
     cursor: pointer;
 
