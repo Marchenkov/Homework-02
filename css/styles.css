@@ -47,12 +47,12 @@
     line-height: 1.7;
     letter-spacing: 0.48px;
     text-decoration: none;
-    
+
 }
-.second-link :hover,
-.second-link :focus {
+.second-link :hover, .second-link :focus {
     color: var(--color-secondary);
     cursor: pointer;
+
 }
 .head-link .link:hover, .head-link .link:focus{
     color: var(--color-secondary);
