@@ -46,6 +46,9 @@
     line-height: 1.7;
     letter-spacing: 0.48px;
     text-decoration: none;
+    
+}
+.second-link{
     color: var(--color-primary);
 }
 .second-link .link:hover, .second-link .link:focus{
